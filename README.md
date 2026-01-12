@@ -9,9 +9,10 @@
 
   <br/>
 
-  <a href="[https://facebook.com/Apinunchai%20Wtynk](https://www.facebook.com/apinunchai.wtynk/?locale=th_TH)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"></a>
-  <a href="[https://instagram.com/pup.wtynk](https://www.instagram.com/pup_wtynk/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
-  <a href="[https://linkedin.com/in/Apinunchai%20Witthayanukrao](https://www.linkedin.com/in/apinunchai-witthayanukrao-723a283a4/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.facebook.com/apinunchai.wtynk/?locale=th_TH"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/pup_wtynk/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/apinunchai-witthayanukrao-723a283a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://codepen.io/M4stiffP"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:apinunchai.wtynk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 
 </div>
@@ -20,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Mathematics with Computer Science** at **KMUTNB** (GPA 3.76).
+- 🎓 Currently studying **Mathematics with Computer Science** at **KMUTNB** (GPA 3.77).
 - 🔭 Working on **Machine Learning** and **Deep Learning** models.
 - 💡 Interested in **Data Mining**, **Software Dev**, **Board Games**, and **Anime**.
 - 🚀 Passionate about creating visually stunning web applications and analyzing complex data.
@@ -52,7 +53,7 @@
 <br><br>
 
 **Design & Tools**<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -62,9 +63,11 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-![](https://github-profile-trophy.vercel.app/?username=M4stiffP&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=M4stiffP&icon=0&color=0)](https://visitcount.itsvg.in)
 
