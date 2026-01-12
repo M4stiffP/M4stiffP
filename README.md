@@ -12,7 +12,6 @@
   <a href="https://www.facebook.com/apinunchai.wtynk/?locale=th_TH"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.instagram.com/pup_wtynk/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/apinunchai-witthayanukrao-723a283a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://codepen.io/M4stiffP"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:apinunchai.wtynk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 
 </div>
