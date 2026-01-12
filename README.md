@@ -9,10 +9,9 @@
 
   <br/>
 
-  <a href="https://facebook.com/Apinunchai%20Wtynk"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"></a>
-  <a href="https://instagram.com/pup.wtynk"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/Apinunchai%20Witthayanukrao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://codepen.io/M4stiffP"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge"></a>
+  <a href="[https://facebook.com/Apinunchai%20Wtynk](https://www.facebook.com/apinunchai.wtynk/?locale=th_TH)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"></a>
+  <a href="[https://instagram.com/pup.wtynk](https://www.instagram.com/pup_wtynk/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="[https://linkedin.com/in/Apinunchai%20Witthayanukrao](https://www.linkedin.com/in/apinunchai-witthayanukrao-723a283a4/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:apinunchai.wtynk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 
 </div>
@@ -66,26 +65,6 @@
 ### 📊 GitHub Stats
 
 ![](https://github-profile-trophy.vercel.app/?username=M4stiffP&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-<br/><br/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M4stiffP&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4stiffP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" alt="Langs" />
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=M4stiffP&theme=dark&hide_border=false" alt="Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=M4stiffP&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribs" />
-</p>
-
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/>
-<br/>
 
 [![](https://visitcount.itsvg.in/api?id=M4stiffP&icon=0&color=0)](https://visitcount.itsvg.in)
 
