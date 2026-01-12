@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Mathematics with Computer Science** at **KMUTNB** (GPA 3.77).
+- 🎓 Currently studying **Mathematics with Computer Science** at **KMUTNB** (GPA 3.76).
 - 🔭 Working on **Machine Learning** and **Deep Learning** models.
 - 💡 Interested in **Data Mining**, **Software Dev**, **Board Games**, and **Anime**.
 - 🚀 Passionate about creating visually stunning web applications and analyzing complex data.
